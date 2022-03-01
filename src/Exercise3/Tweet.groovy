@@ -29,5 +29,6 @@ class Tweet {
 }
 // Groovyc: Invalid duplicate class definition of class Exercise3.Tweet : The source /Users/loveking/Desktop/My Stuff/Foster Moore/Exercises/src/Exercise3/Tweet.groovy contains at least two definitions of the class Exercise3.Tweet.
 // One of the classes is an explicit generated class using the class statement, the other is a class generated from the script body based on the file name. Solutions are to change the file name or to change the class name.
+// Outside of class so Groovy creates another class Tweet which gives the error
 //Tweet tweet = new Tweet()
 //println tweet
