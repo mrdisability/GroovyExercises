@@ -1,6 +1,6 @@
 package Exercise5
 
-def days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+def days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
 println days
 println days.size()
