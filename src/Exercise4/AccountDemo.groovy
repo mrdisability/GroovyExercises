@@ -11,5 +11,11 @@ class AccountDemo {
 
         BigDecimal total = checking + savings
         println total
+
+        BigDecimal multiplyTotal = checking * savings
+        println multiplyTotal
+
+        BigDecimal divideTotal = checking / savings
+        println divideTotal
     }
 }

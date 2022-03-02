@@ -23,4 +23,13 @@ class Account {
     BigDecimal plus(Account account) {
         balance + account.balance
     }
+
+    // Adding multiply and divide functions
+    BigDecimal multiply(Account account) {
+        balance * account.balance
+    }
+
+    BigDecimal div(Account account) {
+        balance / account.balance
+    }
 }
